@@ -1,0 +1,65 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 31px;
+    font: 400;
+    font-size: 17px;
+    color: #C4C4C4;
+
+    
+}
+
+.form label {
+    margin-bottom: 5px;
+    color: #9796A1;
+}
+
+.form input {
+    width: 324px;
+    height: 65px;
+    border: solid 1px #EEEEEE;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+ .form input {
+    margin-bottom: 29px;
+}
+
+.form input[type="text"] {
+    margin-bottom: 74px;
+}
+
+.form input::placeholder {
+    font: 400;
+    font-size: 17px;
+    color: #C4C4C4;
+}
+
+
+
+.register {
+    margin-top: 172px;
+    margin-left: 87px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+    align-items: center;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--secondary);
+    margin-left: 83px;
+    margin-bottom: 30px;
+}
+
+.links a {
+    color: var(--primary);
+}
+
+.form-button {
+    margin-left: 38px;
+    margin-bottom: 29px;
+}

@@ -1,0 +1,18 @@
+.button {
+    
+    background-color: var(--primary);
+    color: var(--light);
+    border-radius: 28.5px;
+    border: none;    
+    
+}
+
+.small {
+    width: 117px;
+    height: 43px;
+}
+
+.big {
+    width: 248px;
+    height: 60px;
+}

@@ -1,0 +1,57 @@
+{
+
+"food": [
+    {
+        "price": 300,
+        "description": "Салями, руккола, помидоры, оливки",
+        "name": "Наслаждение",
+        "rate": 4.5,
+        "image": "/public/product-1.jpg",
+        "id": 1
+
+    },
+
+    {
+        "price": 250,
+        "description": "Острый перец, лепёшка, фарш",
+        "name": "Такос",
+        "rate": 4.5,
+        "image": "/public/product-2.jpg",
+        "id": 2
+
+    },
+
+    {
+        "price": 320,
+        "description": "Острый соус, грибы, помидоры, оливки",
+        "name": "Аццки острая",
+        "rate": 4.5,
+        "image": "/public/product-3.jpg",
+        "id": 3
+
+    },
+
+    {
+        "price": 320,
+        "description": "Картофель, сыр, перец, фарш",
+        "name": "Жаркое с сыром",
+        "rate": 4.5,
+        "image": "/public/product-4.jpg",
+        "id": 4
+
+    }
+
+    
+
+    
+],
+
+"users": [
+    {
+        "name": "Даниил",
+        "email": "mr.daniil33@gmail.com"
+    }
+]
+
+
+}

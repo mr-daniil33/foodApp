@@ -1,0 +1,7 @@
+.h1 {
+    font-family: var(--font);
+    font-weight: 600;
+    font-size: 36px;
+    margin-top: 0;
+   margin-bottom: 41px;
+}

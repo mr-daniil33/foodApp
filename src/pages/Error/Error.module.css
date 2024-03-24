@@ -1,0 +1,16 @@
+.error-page {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.error-page img {
+    width: 300px;
+    height: 250px;
+    padding-left: 50px;
+    
+}

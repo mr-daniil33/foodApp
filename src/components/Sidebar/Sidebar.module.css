@@ -1,0 +1,59 @@
+.profile {
+  
+    margin-top: 30px;
+    padding-right: 40px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 21px;
+    margin-bottom: 7px;
+}
+
+.email {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--email);
+    margin-top: 7px;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 47px;
+}
+
+.list li {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+
+.list li + li {
+    margin-top: 34px;
+}
+
+.list li:last-child {
+    padding-left: 3px;
+}
+
+.wrapper {
+    
+    display: flex;
+    flex-shrink: 0;
+    width: 240px;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 53px;
+    padding-left: 30px;
+    min-height: 100vh;
+    border-right: 1px solid var(--separator);
+}
+
+.exit {
+    display: flex;
+    gap: 9px;
+    justify-content: center;
+    align-items: center;
+}

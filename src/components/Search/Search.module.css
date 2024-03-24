@@ -1,0 +1,18 @@
+.input-wrapper {
+    width: 256px;
+    height: 51px;
+    border: 1px solid #EFEFEF;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    color: #9AA0B4;
+}
+
+.input-wrapper input {
+    border: none;
+    width: 182px;
+}

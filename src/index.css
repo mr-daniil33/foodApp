@@ -1,0 +1,28 @@
+@import url(reset.css);
+
+:root {
+
+  
+  --primary: #FE724C;
+  --dark: #000000;
+  --light: #FFFFFF;
+  --secondary: #5B5B5E;
+  --separator: #D4D6E0;
+  --email: #9EA1B1;
+  --font: "Open Sans", sans-serif;
+
+  display: flex;
+ 
+  
+}
+
+
+
+body {
+ width: 100%;
+ margin: 0;
+ font-family: var(--font);
+ 
+ 
+}
+
